@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "4072029455",
+    "Type": "User",
+    "GUID": "{6B1554CF-B767-4FC8-B732-0053DFE4041C}",
+    "Language": "SFX",
+    "Hash": "{2D36EE3F-738C-8DF7-AA91-A3FFFD05BBF7}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\New_SoundBank",
+    "ShortName": "New_SoundBank",
+    "Path": "New_SoundBank.bnk",
+    "Media": [
+     {
+      "Id": "382194949",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Drums_Only-2022-09-09_-_Bass_Addict_-_www.FesliyanStudios.com.wav",
+      "CachePath": "SFX/Drums_Only-2022-09-09_-_Bass_Addict_-_www.FesliyanStudios.com_442CE044.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3157003241",
+      "Name": "Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Test",
+      "GUID": "{B9EF0CB7-5759-42F4-AE7D-89AE631E1691}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "382194949"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{531E4914-4BB6-F16F-4633-572AC9F2F349}"
+ }
+}

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3157003241	Test			\Default Work Unit\Test	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	382194949	Test	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Drums_Only-2022-09-09_-_Bass_Addict_-_www.FesliyanStudios.com_442CE044.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		33256080
+

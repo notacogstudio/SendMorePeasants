@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{A846A9FA-6BA3-43F1-A69B-40841237D134}" SchemaVersion="119">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{A846A9FA-6BA3-43F1-A69B-40841237D134}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{A846A9FA-6BA3-43F1-A69B-40841237D134}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Test" ID="{807A3ACA-7790-47E1-A65F-A2DF301EC484}" ShortID="1061467843">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EEF41817-2FAD-4FDF-AC52-924008603676}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3A35145E-BFA0-4287-A01F-00CAE92D4F9D}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Drums_Only-2022-09-09_-_Bass_Addict_-_www_FesliyanStudios_com" ID="{F247261C-D2B6-4D96-B487-B597814D683A}">
+							<PropertyList>
+								<Property Name="LoopEnd" Type="Real64" Value="8.6755195954488"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>Drums_Only-2022-09-09_-_Bass_Addict_-_www.FesliyanStudios.com.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="382194949"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Drums_Only-2022-09-09_-_Bass_Addict_-_www_FesliyanStudios_com" ID="{F247261C-D2B6-4D96-B487-B597814D683A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>
