@@ -3,12 +3,12 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{AD287F62-6195-4DB8-A844-126EC3A18048}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Test" ID="{B9EF0CB7-5759-42F4-AE7D-89AE631E1691}">
+				<Event Name="FootSteps" ID="{431396CD-D43B-404B-8274-003783217DEC}">
 					<ChildrenList>
-						<Action Name="" ID="{20A35795-B224-4D0C-A741-1331EBE221C1}" ShortID="916309271">
+						<Action Name="" ID="{D720A891-6210-4458-9C74-286961948036}" ShortID="751709814">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Test" ID="{807A3ACA-7790-47E1-A65F-A2DF301EC484}" WorkUnitID="{A846A9FA-6BA3-43F1-A69B-40841237D134}"/>
+									<ObjectRef Name="FoorSteps" ID="{8F8A4DA4-C5E7-4DF7-92C5-14E0F89319F6}" WorkUnitID="{A846A9FA-6BA3-43F1-A69B-40841237D134}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

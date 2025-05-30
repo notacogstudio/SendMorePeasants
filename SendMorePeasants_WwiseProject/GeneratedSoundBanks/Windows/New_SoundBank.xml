@@ -1,24 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
 	<SoundBanks>
-		<SoundBank Id="4072029455" Type="User" GUID="{6B1554CF-B767-4FC8-B732-0053DFE4041C}" Language="SFX" Hash="{2D36EE3F-738C-8DF7-AA91-A3FFFD05BBF7}">
+		<SoundBank Id="4072029455" Type="User" GUID="{6B1554CF-B767-4FC8-B732-0053DFE4041C}" Language="SFX" Hash="{0EC78979-89DD-C51D-2A7A-A65A65775822}">
 			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
 			<ShortName>New_SoundBank</ShortName>
 			<Path>New_SoundBank.bnk</Path>
 			<Media>
-				<File Id="382194949" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>Drums_Only-2022-09-09_-_Bass_Addict_-_www.FesliyanStudios.com.wav</ShortName>
-					<CachePath>SFX/Drums_Only-2022-09-09_-_Bass_Addict_-_www.FesliyanStudios.com_442CE044.wem</CachePath>
+				<File Id="72724605" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Walking_05.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Walking_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="84692417" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Walking_03.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Walking_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="130513659" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Running_05.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Running_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="143011543" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Running_04.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Running_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="179318341" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Walking_01.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Walking_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="191970003" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Running_06.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Running_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="192841071" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Walking_06.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Walking_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="210761055" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Walking_04.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Walking_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="220515749" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Running_06.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Running_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="221036572" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Running_03.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Running_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="282240972" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Walking_01.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Walking_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="309994093" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Running_01.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Running_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="356255518" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Walking_01.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Walking_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="368061681" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Walking_06.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Walking_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="370791996" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Running_01.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Running_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="374193758" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Running_02.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Running_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="374956762" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Walking_02.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Walking_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="393217955" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Running_02.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Running_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="402051072" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Running_03.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Running_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="444620030" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Running_06.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Running_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="496699313" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Walking_05.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Walking_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="563067130" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Walking_04.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Walking_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="630194718" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Running_01.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Running_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="732871237" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Walking_03.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Walking_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="743043310" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Walking_03.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Walking_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="797688230" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Walking_06.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Walking_06_818F3B66.wem</CachePath>
+				</File>
+				<File Id="854136095" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Tile_Running_04.wav</ShortName>
+					<CachePath>SFX/Footstep_Tile_Running_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="856387819" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Running_04.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Running_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="860653583" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Running_02.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Running_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="889841356" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Running_03.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Running_03_818F3B66.wem</CachePath>
+				</File>
+				<File Id="927477060" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Walking_05.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Walking_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="932466439" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Walking_04.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Walking_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="937053457" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Walking_02.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Walking_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="940459002" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Running_05.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Running_05_818F3B66.wem</CachePath>
+				</File>
+				<File Id="978206796" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Grass_Walking_02.wav</ShortName>
+					<CachePath>SFX/Footstep_Grass_Walking_02_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1035511149" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footstep_Wood_Running_05.wav</ShortName>
+					<CachePath>SFX/Footstep_Wood_Running_05_818F3B66.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
-				<Event Id="3157003241" Name="Test" ObjectPath="\Events\Default Work Unit\Test" GUID="{B9EF0CB7-5759-42F4-AE7D-89AE631E1691}" DurationType="Infinite">
-					<MediaRefs>
-						<MediaRef Id="382194949"/>
-					</MediaRefs>
+				<Event Id="2385628198" Name="FootSteps" ObjectPath="\Events\Default Work Unit\FootSteps" GUID="{431396CD-D43B-404B-8274-003783217DEC}" DurationType="OneShot" DurationMin="0.20591837" DurationMax="0.7214966">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674" GUID="{1069C64B-1D2B-4887-9934-07FB4BD07CC0}"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="2166948503" Id="3863236874" GUID="{3300BB4A-4BCA-43DF-B18F-A123EE174287}"/>
+									<MediaRefs>
+										<MediaRef Id="143011543"/>
+										<MediaRef Id="191970003"/>
+										<MediaRef Id="309994093"/>
+										<MediaRef Id="402051072"/>
+										<MediaRef Id="860653583"/>
+										<MediaRef Id="1035511149"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="2166948503" Id="340271938" GUID="{8A247F99-F12C-44E4-BBB4-B75F960B6D27}" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="72724605"/>
+										<MediaRef Id="84692417"/>
+										<MediaRef Id="179318341"/>
+										<MediaRef Id="563067130"/>
+										<MediaRef Id="797688230"/>
+										<MediaRef Id="937053457"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="3705726509" GUID="{A21B1A9D-6016-45BB-A9A1-4C58A6210821}" Default="true"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="2166948503" Id="3863236874" GUID="{3300BB4A-4BCA-43DF-B18F-A123EE174287}"/>
+									<MediaRefs>
+										<MediaRef Id="130513659"/>
+										<MediaRef Id="221036572"/>
+										<MediaRef Id="374193758"/>
+										<MediaRef Id="444620030"/>
+										<MediaRef Id="630194718"/>
+										<MediaRef Id="854136095"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="2166948503" Id="340271938" GUID="{8A247F99-F12C-44E4-BBB4-B75F960B6D27}" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="192841071"/>
+										<MediaRef Id="210761055"/>
+										<MediaRef Id="282240972"/>
+										<MediaRef Id="374956762"/>
+										<MediaRef Id="496699313"/>
+										<MediaRef Id="732871237"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337" GUID="{C61C94C5-7831-4CA9-945C-E70A51994456}"/>
+							<Children>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="2166948503" Id="3863236874" GUID="{3300BB4A-4BCA-43DF-B18F-A123EE174287}"/>
+									<MediaRefs>
+										<MediaRef Id="220515749"/>
+										<MediaRef Id="370791996"/>
+										<MediaRef Id="393217955"/>
+										<MediaRef Id="856387819"/>
+										<MediaRef Id="889841356"/>
+										<MediaRef Id="940459002"/>
+									</MediaRefs>
+								</SwitchContainer>
+								<SwitchContainer>
+									<SwitchValue GroupType="Switch" GroupId="2166948503" Id="340271938" GUID="{8A247F99-F12C-44E4-BBB4-B75F960B6D27}" Default="true"/>
+									<MediaRefs>
+										<MediaRef Id="356255518"/>
+										<MediaRef Id="368061681"/>
+										<MediaRef Id="743043310"/>
+										<MediaRef Id="927477060"/>
+										<MediaRef Id="932466439"/>
+										<MediaRef Id="978206796"/>
+									</MediaRefs>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
 				</Event>
 			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="2166948503" Name="WalkingRunning" ObjectPath="\Switches\Default Work Unit\WalkingRunning" GUID="{1B011E86-EBEE-4516-B6EB-6DF83C76A267}">
+					<Switches>
+						<Switch Id="340271938" Name="Walking" ObjectPath="\Switches\Default Work Unit\WalkingRunning\Walking" GUID="{8A247F99-F12C-44E4-BBB4-B75F960B6D27}"/>
+						<Switch Id="3863236874" Name="Running" ObjectPath="\Switches\Default Work Unit\WalkingRunning\Running" GUID="{3300BB4A-4BCA-43DF-B18F-A123EE174287}"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="3865314626" Name="Material" ObjectPath="\Switches\Default Work Unit\Material" GUID="{44C40607-99BE-45B1-9C47-CA374948767F}">
+					<Switches>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Material\Wood" GUID="{1069C64B-1D2B-4887-9934-07FB4BD07CC0}"/>
+						<Switch Id="3705726509" Name="Title" ObjectPath="\Switches\Default Work Unit\Material\Title" GUID="{A21B1A9D-6016-45BB-A9A1-4C58A6210821}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Material\Grass" GUID="{C61C94C5-7831-4CA9-945C-E70A51994456}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{3E41E2B9-BABF-6596-9C93-CE7307598FB6}</FileHash>
+	<FileHash>{BEF42BCB-DF3F-84E0-6BF0-CF9716A85C39}</FileHash>
 </SoundBanksInfo>

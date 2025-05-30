@@ -1,6 +1,52 @@
 Event	ID	Name			Wwise Object Path	Notes
-	3157003241	Test			\Default Work Unit\Test	
+	2385628198	FootSteps			\Default Work Unit\FootSteps	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2166948503	WalkingRunning			\Default Work Unit\WalkingRunning	
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	340271938	Walking	WalkingRunning			
+	3863236874	Running	WalkingRunning			
+	2058049674	Wood	Material			
+	3705726509	Title	Material			
+	4248645337	Grass	Material			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	382194949	Test	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Drums_Only-2022-09-09_-_Bass_Addict_-_www.FesliyanStudios.com_442CE044.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		33256080
+	72724605	Footstep_Wood_Walking_05	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Walking_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Walking\Footstep_Wood_Walking_05		86728
+	84692417	Footstep_Wood_Walking_03	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Walking_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Walking\Footstep_Wood_Walking_03		92804
+	130513659	Footstep_Tile_Running_05	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Running_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Running\Footstep_Tile_Running_05		66084
+	143011543	Footstep_Wood_Running_04	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Running_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Running\Footstep_Wood_Running_04		47520
+	179318341	Footstep_Wood_Walking_01	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Walking_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Walking\Footstep_Wood_Walking_01		88468
+	191970003	Footstep_Wood_Running_06	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Running_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Running\Footstep_Wood_Running_06		48868
+	192841071	Footstep_Tile_Walking_06	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Walking_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Walking\Footstep_Tile_Walking_06		97844
+	210761055	Footstep_Tile_Walking_04	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Walking_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Walking\Footstep_Tile_Walking_04		127368
+	220515749	Footstep_Grass_Running_06	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Running_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Running\Footstep_Grass_Running_06		85164
+	221036572	Footstep_Tile_Running_03	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Running_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Running\Footstep_Tile_Running_03		60188
+	282240972	Footstep_Tile_Walking_01	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Walking_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Walking\Footstep_Tile_Walking_01		114716
+	309994093	Footstep_Wood_Running_01	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Running_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Running\Footstep_Wood_Running_01		36420
+	356255518	Footstep_Grass_Walking_01	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Walking_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Walking\Footstep_Grass_Walking_01		88468
+	368061681	Footstep_Grass_Walking_06	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Walking_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Walking\Footstep_Grass_Walking_06		85164
+	370791996	Footstep_Grass_Running_01	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Running_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Running\Footstep_Grass_Running_01		88468
+	374193758	Footstep_Tile_Running_02	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Running_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Running\Footstep_Tile_Running_02		55300
+	374956762	Footstep_Tile_Walking_02	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Walking_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Walking\Footstep_Tile_Walking_02		113832
+	393217955	Footstep_Grass_Running_02	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Running_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Running\Footstep_Grass_Running_02		83960
+	402051072	Footstep_Wood_Running_03	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Running_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Running\Footstep_Wood_Running_03		45940
+	444620030	Footstep_Tile_Running_06	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Running_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Running\Footstep_Tile_Running_06		62584
+	496699313	Footstep_Tile_Walking_05	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Walking_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Walking\Footstep_Tile_Walking_05		113132
+	563067130	Footstep_Wood_Walking_04	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Walking_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Walking\Footstep_Wood_Walking_04		93784
+	630194718	Footstep_Tile_Running_01	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Running_01_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Running\Footstep_Tile_Running_01		56868
+	732871237	Footstep_Tile_Walking_03	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Walking_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Walking\Footstep_Tile_Walking_03		116856
+	743043310	Footstep_Grass_Walking_03	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Walking_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Walking\Footstep_Grass_Walking_03		92804
+	797688230	Footstep_Wood_Walking_06	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Walking_06_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Walking\Footstep_Wood_Walking_06		85164
+	854136095	Footstep_Tile_Running_04	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Tile_Running_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Tile\Running\Footstep_Tile_Running_04		63136
+	856387819	Footstep_Grass_Running_04	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Running_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Running\Footstep_Grass_Running_04		93784
+	860653583	Footstep_Wood_Running_02	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Running_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Running\Footstep_Wood_Running_02		44356
+	889841356	Footstep_Grass_Running_03	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Running_03_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Running\Footstep_Grass_Running_03		92804
+	927477060	Footstep_Grass_Walking_05	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Walking_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Walking\Footstep_Grass_Walking_05		86728
+	932466439	Footstep_Grass_Walking_04	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Walking_04_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Walking\Footstep_Grass_Walking_04		93784
+	937053457	Footstep_Wood_Walking_02	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Walking_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Walking\Footstep_Wood_Walking_02		83960
+	940459002	Footstep_Grass_Running_05	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Running_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Running\Footstep_Grass_Running_05		86728
+	978206796	Footstep_Grass_Walking_02	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Grass_Walking_02_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Grass\Walking\Footstep_Grass_Walking_02		83960
+	1035511149	Footstep_Wood_Running_05	E:\GitHub\SendMorePeasants\SendMorePeasants_WwiseProject\.cache\Mac\SFX\Footstep_Wood_Running_05_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterAudio\AllSFXAudio\Player\FoorSteps\Wood\Running\Footstep_Wood_Running_05		53644
 
