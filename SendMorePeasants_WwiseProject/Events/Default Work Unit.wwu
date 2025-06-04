@@ -14,6 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Test" ID="{D750D57C-1C33-45B8-B666-9A9ECF55C702}">
+					<ChildrenList>
+						<Action Name="" ID="{4A3F7BAC-E905-41E5-9CAA-E9044596977E}" ShortID="27420870">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Test" ID="{F0E30EF9-9BF7-476C-88F0-66B6FA3F0FD1}" WorkUnitID="{A846A9FA-6BA3-43F1-A69B-40841237D134}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

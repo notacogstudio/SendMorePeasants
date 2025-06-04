@@ -29,6 +29,30 @@
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3A35145E-BFA0-4287-A01F-00CAE92D4F9D}"/>
 								</Reference>
 							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="Test" ID="{F0E30EF9-9BF7-476C-88F0-66B6FA3F0FD1}" ShortID="103315689">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EEF41817-2FAD-4FDF-AC52-924008603676}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3A35145E-BFA0-4287-A01F-00CAE92D4F9D}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="15-Seconds-2020-03-22_-_Shakalaka_-_FesliyanStudios_com_-_David_Renda" ID="{8BB7B209-56C0-4C12-B94D-1CBE757425BA}">
+											<Language>SFX</Language>
+											<AudioFile>15-Seconds-2020-03-22_-_Shakalaka_-_FesliyanStudios.com_-_David_Renda.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="166462085"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="15-Seconds-2020-03-22_-_Shakalaka_-_FesliyanStudios_com_-_David_Renda" ID="{8BB7B209-56C0-4C12-B94D-1CBE757425BA}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
 						</ActorMixer>
 						<ActorMixer Name="AllSFXAudio" ID="{D2F10764-A90C-403A-AA7D-4018A9544737}" ShortID="341643799">
 							<ReferenceList>

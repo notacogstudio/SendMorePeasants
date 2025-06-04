@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
 	<SoundBanks>
-		<SoundBank Id="4072029455" Type="User" GUID="{6B1554CF-B767-4FC8-B732-0053DFE4041C}" Language="SFX" Hash="{0EC78979-89DD-C51D-2A7A-A65A65775822}">
+		<SoundBank Id="4072029455" Type="User" GUID="{6B1554CF-B767-4FC8-B732-0053DFE4041C}" Language="SFX" Hash="{CF9A4B90-3F83-F8AF-AA32-4D2E593C78B0}">
 			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
 			<ShortName>New_SoundBank</ShortName>
 			<Path>New_SoundBank.bnk</Path>
@@ -21,6 +21,10 @@
 				<File Id="143011543" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footstep_Wood_Running_04.wav</ShortName>
 					<CachePath>SFX/Footstep_Wood_Running_04_818F3B66.wem</CachePath>
+				</File>
+				<File Id="166462085" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>15-Seconds-2020-03-22_-_Shakalaka_-_FesliyanStudios.com_-_David_Renda.wav</ShortName>
+					<CachePath>SFX/15-Seconds-2020-03-22_-_Shakalaka_-_FesliyanStudios.com_-_David_Renda_818F3B66.wem</CachePath>
 				</File>
 				<File Id="179318341" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footstep_Wood_Walking_01.wav</ShortName>
@@ -237,6 +241,11 @@
 						</SwitchContainer>
 					</SwitchContainers>
 				</Event>
+				<Event Id="3157003241" Name="Test" ObjectPath="\Events\Default Work Unit\Test" GUID="{D750D57C-1C33-45B8-B666-9A9ECF55C702}" DurationType="OneShot" DurationMin="17.632652" DurationMax="17.632652">
+					<MediaRefs>
+						<MediaRef Id="166462085"/>
+					</MediaRefs>
+				</Event>
 			</Events>
 			<SwitchGroups>
 				<SwitchGroup Id="2166948503" Name="WalkingRunning" ObjectPath="\Switches\Default Work Unit\WalkingRunning" GUID="{1B011E86-EBEE-4516-B6EB-6DF83C76A267}">
@@ -255,5 +264,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{B0F31116-E9DA-12FD-C8F9-05F4F1330695}</FileHash>
+	<FileHash>{D321581C-7EA7-EC50-F3CC-274342105A9B}</FileHash>
 </SoundBanksInfo>
